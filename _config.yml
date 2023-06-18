@@ -1,21 +1,18 @@
-title: Abhishek Nagekar
-description: Web & Security Engineer
-site_title: '@abhn - Abhishek Nagekar'
+title: jeonghyun Lim
+description: Backend Developer
+site_title: "@jeonghyunLim"
 
 # Build settings
 markdown: kramdown
 exclude: [vendor/ruby]
 
 # Personalization
-github_username: abhn
-blog_url: https://www.nagekar.com
-email: abhishek@nagekar.com
-keybase_username: abhn
-twitter_username: abhn_
-reddit_username: abhn
+github_username: limzzum
+blog_url: https://https://zammanboss.tistory.com
+email: chfhddl1234@naver.com
 
 # absolute or relative
-profile_picture: assets/images/pp.jpg
+profile_picture: assets/images/dev-jeans.png
 
 # Google Analytics ID
-google_analytics: 
+google_analytics:
