@@ -63,7 +63,7 @@ function blog_posts() {
 
             <div class="blog-link">
     
-                <h3><a href="${post.url}">${post.title}</a></h3>            
+                <h3>${post.title}</h3>           
 
             </div>
     
@@ -78,11 +78,11 @@ function blog_posts() {
 
   // for the more posts link
   let post_template = `
-    <div class="blog-post more-blogs" onclick="blog_link_click('https://www.nagekar.com');">
+    <div class="blog-post more-blogs" onclick="blog_link_click('https://zammanboss.tistory.com');">
 
         <div class="blog-link">
 
-            <h3><a href="https://www.nagekar.com">Visit the blog for more posts</a></h3>            
+            <h3>Visit the blog for more posts</h3>            
 
         </div>
 
