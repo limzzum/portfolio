@@ -6,7 +6,7 @@ limzzum's portfolio
 - [Screenshots](#screenshots)
 
 ### Screenshots
-![homepage](tmp/limzzum.github.io_portfolio_.png)
+
 
 ### License
 GPL
