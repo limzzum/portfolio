@@ -73,7 +73,7 @@ let render_projects = (slug) => {
       link: "https://github.com/limzzum/banjjog.git",
       title: "내 반쪽 연인과의 궁합 확인",
       demo: false,
-      technologies: ["React", "Typescript", "Wep/App"],
+      technologies: ["React", "Typescript", "Web/App"],
       description:
         "문답을 통해 연인과 나의 가치관이 얼마나 일치하는지, 서로에 대해 얼마나 알고 있는지 확인해 볼 수 있다.",
       categories: ["app", "web"],
@@ -83,7 +83,7 @@ let render_projects = (slug) => {
       link: "https://github.com/potathon/team1-backend",
       title: "가상 면접 시뮬레이션",
       demo: false,
-      technologies: ["SpringBoot", "JPA", "OpenAI", "해커톤"],
+      technologies: ["SpringBoot", "JPA", "OpenAI", "#해커톤"],
       description:
         "개발자에게 필요한 지식들을 묻는 가상면접을 통해 내 답변을 확인&기록 하고, 다른 사람들과 공유할 수 있다.",
       categories: ["web"],
